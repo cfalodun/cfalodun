@@ -1,6 +1,5 @@
 <h1>
-  Cornelius Falodun | <a href="https://www.linkedin.com/in/cornelius-o-falodun-27062a294/" target="_blank"> IT Professional </a>
-</h1>
+  Cornelius Falodun | <a href="https://www.linkedin.com/in/cornelius-o-falodun-27062a294/" target="_blank"> IT Professional </a></h1>
 
 
 
