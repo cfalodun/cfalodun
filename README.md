@@ -23,6 +23,8 @@ Active Directory • DNS • DHCP • Ticketing Systems • Windows Support
   - [Network File Shares and Permissions Lab](https://github.com/cfalodun/Network-File-Shares-and-Permissions)
 
 
+
+
 <h2>Open to Opportunities:</h2>
 
 [<img align="left" alt="Cornelius | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
