@@ -20,7 +20,7 @@ Active Directory • DNS • DHCP • Ticketing Systems • Windows Support
   - [Practicing with DNS](https://github.com/cfalodun/-Practicing-with-DNS)
 
 - <b>Network File Shares and Permissions</b>
-  - [Network File Shares and Permissions Lab](https://github.com/cfalodun/Network-File-Shares-and-Permissions)
+  - [Network File Shares and Permissions](https://github.com/cfalodun/Network-File-Shares-and-Permissions)
 
 
 
