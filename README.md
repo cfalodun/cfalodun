@@ -9,7 +9,7 @@ Active Directory • DNS • DHCP • Ticketing Systems • Windows Support
 <h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/cfalodun/Ticket-Lifestyle)
+  - [osTicket: Ticket Lifecycle & Escalation](https://github.com/cfalodun/Ticket-Lifestyle)
 
 - <b>Active Directory</b>
   - [Deploying Active Directory](https://github.com/cfalodun/Deploying-Active-Directory)
