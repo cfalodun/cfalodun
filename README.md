@@ -17,7 +17,7 @@ Active Directory • DNS • DHCP • Ticketing Systems • Windows Support
   - [Group Policy and Managing Accounts](https://github.com/cfalodun/Group-Policy-and-Managing-Accounts)
 
 - <b>DNS</b>
-  - [Practicing with DNS](https://github.com/cfalodun/-Practicing-with-DNS)
+  - [DNS Administration & Troubleshooting](https://github.com/cfalodun/-Practicing-with-DNS)
 
 - <b>Network File Shares and Permissions</b>
   - [Network File Shares and Permissions](https://github.com/cfalodun/Network-File-Shares-and-Permissions)
