@@ -6,14 +6,26 @@ Active Directory • DNS • DHCP • Ticketing Systems • Windows Support
 </p>
 
 
-
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/cfalodun/Ticket-Lifestyle)
+
+- <b>Active Directory</b>
+  - [Deploying Active Directory](https://github.com/cfalodun/Deploying-Active-Directory)
+  - [Creating Users with PowerShell](https://github.com/cfalodun/Creating-Users-with-Powershell)
+  - [Group Policy and Managing Accounts](https://github.com/cfalodun/Group-Policy-and-Managing-Accounts)
+
+- <b>DNS</b>
+  - [Practicing with DNS](https://github.com/cfalodun/-Practicing-with-DNS)
+
+- <b>Network File Shares and Permissions</b>
+  - [Network File Shares and Permissions Lab](https://github.com/cfalodun/Network-File-Shares-and-Permissions)
+
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
 
 <h2>Open to Opportunities:</h2>
 
