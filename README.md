@@ -1,4 +1,4 @@
-<h1>Hi, I'm Cornelius, an <a href="https://www.linkedin.com/in/cornelius-o-falodun-27062a294/">IT Professional</a>!</h1>
+<h1>Hey there, I'm Cornelius Falodun, an <a href="https://www.linkedin.com/in/cornelius-o-falodun-27062a294/">IT Professional</a>!</h1>
 
 
 <h2>👨‍💻 Information Technology Projects:</h2>
